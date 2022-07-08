@@ -373,7 +373,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"/config/images/spiner.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
