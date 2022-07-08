@@ -201,7 +201,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.gif" : null}
       >
-        <StyledLogo alt={"logo"} src={"/config/images/logotxt.png"} />
+        <StyledLogo />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
@@ -373,7 +373,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/spiner.gif"}
+              src={"/config/images/hslogo.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
