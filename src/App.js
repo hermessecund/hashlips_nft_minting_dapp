@@ -10,7 +10,7 @@ const truncate = (input, len) =>
 
 export const StyledButton = styled.button`
   padding: 10px;
-  border-radius: 0px;
+  border-radius: 50px;
   border: none;
   background-color: var(--secondary);
   padding: 10px;
@@ -371,7 +371,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/hslogott.gif"}
+              src={"/config/images/hslogo.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
