@@ -15,7 +15,7 @@ export const StyledButton = styled.button`
   background-color: var(--secondary);
   padding: 10px;
   font-weight: bold;
-  color: var(--secondary-text);
+  color: var(--secondary-text-c);
   width: 100px;
   cursor: pointer;
   box-shadow: 0px 0px 0px -2px rgba(250, 250, 250, 0.3);
