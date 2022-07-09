@@ -197,7 +197,7 @@ function App() {
         flex={1}
         ai={"center"}
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.gif" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/hsbgnftcz.gif" : null}
       >
         <StyledLogo />
         <s.SpacerSmall />
