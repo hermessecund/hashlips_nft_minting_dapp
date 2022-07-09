@@ -34,7 +34,7 @@ export const StyledRoundButton = styled.button`
   padding: 10px;
   font-weight: bold;
   font-size: 15px;
-  color: var(--primary-text);
+  color: var(--secondary);
   width: 30px;
   height: 30px;
   cursor: pointer;
@@ -88,7 +88,7 @@ export const StyledImg = styled.img`
 `;
 
 export const StyledLink = styled.a`
-  color: var(--secondary-text);
+  color: var(--secondary-text_c);
   text-decoration: none;
 `;
 
