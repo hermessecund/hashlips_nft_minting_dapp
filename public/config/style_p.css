@@ -1,0 +1,505 @@
+
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+li{list-style:none}
+
+
+/* =============================================================================
+   My CSS
+   ========================================================================== */
+@font-face {
+  font-family: "Old";
+  src: url("../OLD.ttf");
+  }
+  
+  
+  
+#Layer1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:19;
+	top:40;
+	right:35;
+}
+-->
+
+<!-- partial -->
+		<!--
+		@font-face {
+			font-family: "Old";
+			src: url("../OLD.ttf");
+		}
+
+		body {
+			
+		}
+
+		body,
+		td,
+		th {
+			color: #FFFFFF;
+			position: absolute;
+			font-size: 25px;
+		}
+
+		.style5 {
+			color: #00FFFF;
+			font-size: 24px;
+			font-family: "Old English Text MT";
+			position: absolute;
+			top: 3px;
+			left: 10px;
+		}
+
+		.style7 {
+			font-family: "Old English Text MT";
+			font-size: 180px;
+			top: 10px;
+			position: absolute;
+		}
+
+		.style8 {
+			color: #00FFFF;
+			left: 10px;
+		}
+
+		.style9 {
+			color: #FFFF00
+		}
+
+		#Layer1 {
+			position: absolute;
+			width: 163px;
+			height: 74px;
+			z-index: 0;
+			left: -1px;
+			top: -2px;
+		}
+
+		#Layer2 {
+			position: relative;
+			width: 22%;
+			height: 114px;
+			z-index: 1;
+			left: 275px;
+			top: 31%;
+		}
+
+		#Layer22 {
+			position: relative;
+			width: 229px;
+			height: 114px;
+			z-index: 1;
+			top: 0px;
+			right: 0px;
+			font: 30px;
+			left: 230px;
+		}
+
+		a:link {
+			color: #FFFFFF;
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: #FFFFFF;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: #00FFFF;
+			text-decoration: none;
+		}
+
+		a:active {
+			color: #FFFF00;
+			text-decoration: none;
+		}
+
+		#Layer3 {
+			position: absolute;
+			z-index: 2;
+			font-size: 877px;
+			left: -60px;
+		}
+
+		#Layer4 {
+			position: absolute;
+			width: 200px;
+			height: 307px;
+			z-index: 2;
+			left: 583px;
+			top: 359px;
+		}
+		-->
+	</style>
+	<style type="text/css">
+		<!--
+		#Layer5 {
+			position: absolute;
+			width: 1018px;
+			height: 115px;
+			z-index: 1;
+			left: 214px;
+			top: 147px;
+		}
+
+		#Layer6 {
+			position: absolute;
+			width: 640px;
+			height: 245px;
+			z-index: 1;
+			left: -15px;
+			top: 320px;
+		}
+
+		#Layer7 {
+			position: absolute;
+			width: 200px;
+			height: 115px;
+			z-index: 2;
+			left: 53px;
+			top: 553px;
+		}
+
+		#Layer8 {
+			position: absolute;
+			width: 908px;
+			height: 391px;
+			z-index: 2;
+			left: 528px;
+			top: 25px;
+		}
+
+		#Layer9 {
+			position: absolute;
+			width: 289px;
+			height: 184px;
+			z-index: 2;
+			left: 548px;
+			top: 98px;
+		}
+
+		#Layer10 {
+			position: absolute;
+			width: 450px;
+			height: 150px;
+			z-index: 333;
+			top: 480px;
+			left: -20px;
+		}
+
+		#Layer11 {
+			position: absolute;
+			width: 300px;
+			height: 155px;
+			left: 0;
+			top: 500px;
+			z-index: 4;
+		}
+
+		#Layer12 {
+			position: absolute;
+			z-index: 334;
+			margin-right: 5px;
+			left: 825px;
+			top: 16px;
+		}
+
+		#Layer13 {
+			position: absolute;
+			width: 982px;
+			height: 210px;
+			z-index: -335;
+			left: 231px;
+			top: 873px;
+		}
+
+		#Layer14 {
+			position: absolute;
+			width: 200px;
+			height: 115px;
+			z-index: 335;
+			left: 201px;
+			top: 2px;
+		}
+
+		#Layer15 {
+			position: absolute;
+			width: 200px;
+			height: 115px;
+			z-index: 336;
+			top: 206px;
+		}
+
+		.style16 {
+			color: #FFFFFF
+		}
+		-->
+		.style8
+		{
+		color:
+		#00FFFF;
+		left:
+		10px;
+		}
+		body
+		{
+		background-color:
+		#000;
+		}
+		.filla
+		{
+		position:
+		absolute;
+		top:
+		calc(5%
+		30px);
+		left:
+		calc(5%
+		30px);
+		width:
+		150px;
+		height:
+		150px;
+		border-radius:
+		50%;
+		box-shadow:
+		inset
+		0
+		0
+		50px
+		#fff,
+		inset
+		20px
+		0
+		80px
+		#f0f,
+		inset
+		-20px
+		0
+		80px
+		#0ff,
+		inset
+		20px
+		0
+		300px
+		#f0f,
+		inset
+		-20px
+		0
+		300px
+		#0ff,
+		0
+		0
+		50px
+		#fff,
+		10px
+		0
+		80px
+		#f0f,
+		10px
+		0
+		80px
+		#0ff;
+		}
+		.fillow
+		{
+		position:
+		absolute;
+		top:
+		calc(5%
+		30px);
+		left:
+		calc(5%
+		30px);
+		width:
+		60px;
+		height:
+		60px;
+		border-radius:
+		50%;
+		box-shadow:
+		inset
+		0
+		0
+		50px
+		rgb(2,
+		255,
+		255),
+		inset
+		20px
+		0
+		80px
+		rgb(1,
+		207,
+		243),
+		inset
+		-20px
+		0
+		80px
+		rgb(102,
+		228,
+		0),
+		inset
+		20px
+		0
+		300px
+		rgb(255,
+		51,
+		0),
+
+		inset
+		-20px
+		0
+		300px
+		rgb(4,
+		0,
+		255),
+		0
+		0
+		50px
+		rgb(255,
+		255,
+		255),
+		-10px
+		0
+		80px
+		#3ff,
+		-10px
+		0
+		80px
+		rgb(229,
+		255,
+		0);
+		}
+		.fillon
+		{
+		position:
+		absolute;
+		top:
+		calc(5%
+		30px);
+		left:
+		calc(5%
+		30px);
+		width:
+		20px;
+		height:
+		20px;
+		border-radius:
+		50%;
+		box-shadow:
+		inset
+		0
+		0
+		50px
+		rgb(219,
+		255,
+		18),
+		inset
+		20px
+		0
+		80px
+		rgb(251,
+		255,
+		0),
+		inset
+		-20px
+		0
+		80px
+		rgb(158,
+		255,
+		1),
+		inset
+		20px
+		0
+		300px
+		rgba(253,
+		249,
+		3,
+		0.952),
+		inset
+		-20px
+		0
+		300px
+		rgb(218,
+		255,
+		6),
+		0
+		0
+		50px
+		rgb(124,
+		255,
+		2),
+		-10px
+		0
+		80px
+		rgb(75,
+		255,
+		180),
+		-10px
+		0
+		80px
+		rgb(229,
+		255,
+		0);
+		}
+
+
+html,body{ 
+
+	width:100%;
+	height:100%;
+	background:#000;
+}
+
+ body {
+
+  
+  background: url(hsbgnftcz.gif);
+  
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+/* remove canvas default margin */
+canvas{
+	display:block;
+	vertical-align:bottom;
+}
+
+#particles-js{
+	width:100%;
+	height:100%;
+}
+
+h1{
+font-size: 4rem;
+position: absolute;
+top: 50%;
+left: 50%;
+color: #FFF;
+font-family: old;
+font-weight: 200;
+text-shadow: 2px 2px #00ffff;
+text-transform: lowercase;
+}
