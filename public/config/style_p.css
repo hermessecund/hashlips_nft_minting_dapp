@@ -21,7 +21,7 @@ li{list-style:none}
    ========================================================================== */
 @font-face {
   font-family: "Old";
-  src: url("../OLD.ttf");
+  src: url("config/OLD.ttf");
   }
   
   
@@ -40,7 +40,7 @@ li{list-style:none}
 		<!--
 		@font-face {
 			font-family: "Old";
-			src: url("../OLD.ttf");
+			src: url("config/OLD.ttf");
 		}
 
 		body {
@@ -470,7 +470,7 @@ html,body{
  body {
 
   
-  background: url(hsbgnftcz.gif);
+  background: url(config/images/hsbgnftcz.gif);
   
     height: 100%;
 
