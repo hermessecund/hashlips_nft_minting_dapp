@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xA9E2C7F8E4Af0D3fE04dd786d6a42cc37Cd72e13",
-  "SCAN_LINK": "https://polygonscan.com/token/0xA9E2C7F8E4Af0D3fE04dd786d6a42cc37Cd72e13",
+  "CONTRACT_ADDRESS": "0xda6eF7df2138d037fe7B1c99CE1fbF2Ed7Bd0Dbb",
+  "SCAN_LINK": "https://polygonscan.com/token/0xda6eF7df2138d037fe7B1c99CE1fbF2Ed7Bd0Dbb",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 10.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/et-hs-cyclezero-calendar",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/eths-calendar-cyclezero-horoscope",
   "SHOW_BACKGROUND": true
 }
