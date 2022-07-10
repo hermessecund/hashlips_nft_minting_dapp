@@ -38,7 +38,7 @@ li{list-style:none}
 		<!--
 		@font-face {
 			font-family: "Old";
-			src: url("config/OLD.ttf");
+			src: url("OLD.ttf");
 		}
 
 		body {
@@ -468,7 +468,7 @@ html,body{
  body {
 
   
-  background: url(config/images/hsbgnftcz.gif);
+  background: url(/images/hsbgnftcz.gif);
   
     height: 100%;
 
