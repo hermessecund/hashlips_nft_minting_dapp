@@ -196,8 +196,8 @@ function App() {
       <s.Container
         flex={1}
         ai={"center"}
-        style={{ padding: 24, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "" : null}
+        style={{ padding: 24, backgroundColor: "" }}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/hsbgnftcz.gif" : null}
       >
         <StyledLogo />
         <s.SpacerSmall />
