@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xda6eF7df2138d037fe7B1c99CE1fbF2Ed7Bd0Dbb",
-  "SCAN_LINK": "https://polygonscan.com/token/0xda6eF7df2138d037fe7B1c99CE1fbF2Ed7Bd0Dbb",
+  "CONTRACT_ADDRESS": "0x9aa21E2D74AcB65aB6b5c2A8b958F3c511d872B3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9aa21E2D74AcB65aB6b5c2A8b958F3c511d872B3",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "CycleZero Horoscope Calendar",
   "SYMBOL": "ETHS",
-  "MAX_SUPPLY": 360,
+  "MAX_SUPPLY": 10800,
   "WEI_COST": 10000000000000000000,
-  "DISPLAY_COST": 10.00,
+  "DISPLAY_COST": 0.6,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/eths-calendar-cyclezero-horoscope",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/10800-horoscope-calendar-cyclezero",
   "SHOW_BACKGROUND": true
 }
